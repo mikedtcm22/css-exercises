@@ -1,0 +1,21 @@
+
+.cool {
+    background-color: #FFB6C1;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 18px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#the-one {
+    color: #4169E1;
+    font-size: 36px;
+}
+
+#the-other {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: 800;
+}
